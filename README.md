@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/robinespinozarossi">Robin Espinoza Rossi</a> 👋</h1>
+<h2 align="center">Hi I'm <a href="https://www.linkedin.com/in/robinespinozarossi">Robin Espinoza Rossi</a> 👋</h2>
 </div>
 <img src="https://i.imgur.com/YGIngCn.png">
 
@@ -11,9 +11,8 @@
 ## About Me
 
 - 📲 Hi, my name is Robin Espinoza Rossi. I'm Mobile developer and Technology Enthusiast.
-- ✏️ POO, Clean Architecture, MVVM , Clean Code
-- 📗 Java and Kotlin
-- 🧑‍🏫 Jetpack Compose
+- 📗 Native Android: Java and Kotlin
+- ✏️ Favorites: MVVM , LiveData and Jetpack Compose
 <br>
 
 ## Proyectos *bombitas*
