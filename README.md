@@ -38,10 +38,10 @@
 <a href="https://github.com/robinespinozar/PulseScore.git" target="_blank"><img src="https://i.imgur.com/dvvu2WT.jpg" width="400" alt="Notes app"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/robinespinozar/PulseScore.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Esta aplicación se encuentra en desarrollo.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
