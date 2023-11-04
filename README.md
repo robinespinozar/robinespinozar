@@ -10,6 +10,7 @@
 - 📲 Hi, my name is Robin Espinoza Rossi. I'm Mobile developer and Technology Enthusiast.
 - 📗 Native Android: Java and Kotlin
 - ✏️ Favorites: MVVM , LiveData and Jetpack Compose
+- ✏️ Other Knowledge: ML & IA
 <br>
 
 ## *Best* Projects
