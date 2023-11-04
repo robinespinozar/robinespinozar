@@ -21,12 +21,12 @@
 <td width="50%">
 <h3 align="center">Live Score App : Pulse Score</h3>
 <div align="center">
-<a href="https://github.com/robinespinozar/PulseScore.git" target="_blank"><img src="https://i.imgur.com/bOldzOM.png" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/robinespinozar/PulseScore.git" target="_blank"><img src="https://i.imgur.com/bOldzOM.png" width="400" alt="Live score app"></a>
 <p>
 <a href="https://github.com/robinespinozar/PulseScore.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>En este proyecto totalmente desarrollado en Kotlin encontrarás buenas prácticas y tecnologías como <strong> MVVM, Clean Code, Clean Architecture, etc.. </strong> Además de una UI atractiva con lo último de <strong>  Material Design 3 </strong> y tecnologías emergentes como <strong> Jetpack Compose </strong> El código está disponible para descargar.</p>
 </div>
                                                                                       
 </td>
@@ -35,7 +35,7 @@
                <br>
 <h3 align="center"> Notes App: NoteKeeper</h3>
 <div align="center">                                       
-<a href="https://github.com/robinespinozar/PulseScore.git" target="_blank"><img src="https://i.imgur.com/dvvu2WT.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/robinespinozar/PulseScore.git" target="_blank"><img src="https://i.imgur.com/dvvu2WT.jpg" width="400" alt="Notes app"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
