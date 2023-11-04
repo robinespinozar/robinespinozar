@@ -1,7 +1,7 @@
 <div align="center">
 <h2 align="center">Hi I'm <a href="https://www.linkedin.com/in/robinespinozarossi">Robin Espinoza Rossi</a> 👋</h2>
 </div>
-<img src="https://i.imgur.com/RptqbNV.png">
+<img src="https://i.imgur.com/IuR3fdK.png">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/robinespinozarossi)
 
