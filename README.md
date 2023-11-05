@@ -75,7 +75,7 @@
 <a href="https://github.com/robinespinozar/PulseScore.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </p>
-<p>En este proyecto encontrarás dos ramas, ya que se desarrolló con <strong> XML y Jetpack Compose. </strong> Además cuenta con una UI atractiva. Se aplican la arquitectura <strong> MVVM con Clean Architecture </strong> El código está disponible para descargar.</p>
+<p>En este proyecto encontrarás dos ramas, ya que se desarrolló una para <strong> XML </strong>y otra para <strong> Jetpack Compose </strong>. Además cuenta con una UI atractiva. Se aplica la arquitectura <strong> MVVM , Room, Retrofit, etc..</strong> El código está disponible para descargar.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
