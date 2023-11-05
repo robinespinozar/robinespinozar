@@ -48,27 +48,43 @@
 </div>
 <br>
 
+
 <table>
 <tr>
-<td width="100%">
-<h3 align="center">Curso Android Básico</h3>
+<td width="50%">
+<h3 align="center">Live Score App : PulseScore</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/robinespinozar/PulseScore.git" target="_blank"><img src="https://i.imgur.com/dvvu2WT.jpg" width="400" alt="Other app"></a>
+<br>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
+<a href="https://github.com/robinespinozar/PulseScore.git" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+</p>Esta aplicación se encuentra en desarrollo.</p>
 </div>
                                                                                       
-</td>                                                    
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center"> Pokedex App</h3>
+<div align="center">                                       
+<a href="https://github.com/robinespinozar/PulseScore.git" target="_blank"><img src="https://i.imgur.com/K6w8l7X.png" width="400" alt="Pokedex app"></a>
+<br>
+<p>
+<a href="https://github.com/robinespinozar/PulseScore.git" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</p>
+<p>En este proyecto encontrarás dos ramas, ya que se desarrolló con <strong> XML y Jetpack Compose. </strong> Además cuenta con una UI atractiva. Se aplican la arquitectura <strong> MVVM con Clean Architecture </strong> El código está disponible para descargar.</p>
+</div>                                                             
 </table>                                                                                 
 </div>
 <br>
+                                                                              
+</div>
+<br>
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
