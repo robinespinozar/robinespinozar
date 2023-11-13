@@ -58,7 +58,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Live Score App : PulseScore</h3>
+<h3 align="center"> Weather app : WeatherSense</h3>
 <div align="center">
 <a href="https://github.com/robinespinozar/PulseScore.git" target="_blank"><img src="https://i.imgur.com/dvvu2WT.jpg" width="400" alt="Other app"></a>
 <br>
