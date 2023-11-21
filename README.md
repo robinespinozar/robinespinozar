@@ -75,7 +75,7 @@
                <br>
 <h3 align="center"> Pokedex App</h3>
 <div align="center">                                       
-<a href="https://github.com/robinespinozar/PulseScore.git" target="_blank"><img src="https://i.imgur.com/K6w8l7X.png" width="400" alt="Pokedex app"></a>
+<a href="https://github.com/robinespinozar/Pokedex.git" target="_blank"><img src="https://i.imgur.com/K6w8l7X.png" width="400" alt="Pokedex app"></a>
 <br>
 <p>
 <a href="https://github.com/robinespinozar/PulseScore.git" target="_blank">
