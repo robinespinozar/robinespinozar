@@ -42,7 +42,7 @@
 <a href="https://github.com/robinespinozar/NoteKeeper" target="_blank"><img src="https://i.imgur.com/eMX5scH.png" width="400" alt="Notes app"></a>
 <br>
 <p>
-<a href="https://github.com/robinespinozar/PulseScore.git" target="_blank">
+<a href="https://github.com/robinespinozar/NoteKeeper" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </p>
 </p>Esta aplicación se encuentra en desarrollo.</p>
